@@ -18,8 +18,7 @@ define Package/luci-app-poweroff
 	SECTION:=luci
 	CATEGORY:=LuCI
 	SUBMENU:=3. Applications
-	TITLE:=LuCI Support of poweroff router
-	DEPENDS:=+poweroff
+	TITLE:=LuCI Support of PowerOff Router
 endef
 
 define Package/luci-app-poweroff/description
