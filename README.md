@@ -1,2 +1,1 @@
-# luci-app-poweroff
-Shut Down Router
+# Shut Down Router
