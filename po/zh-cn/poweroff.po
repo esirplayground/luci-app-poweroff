@@ -20,3 +20,12 @@ msgstr "吹灯拔蜡，关机回家"
 
 msgid "Perform PowerOff"
 msgstr "关机，走你~"
+
+msgid "Warning: There are unsaved changes that will get lost on shutting down!"
+msgstr "警告：没保存的改动在关机的时候都会丢失！别惊讶，要么保存，要么放弃"
+
+msgid "Waiting for device..."
+msgstr "设备有点懵，要等一下..."
+
+msgid "Router is shutting down..."
+msgstr "正在关机，说啥也不好使了..."
